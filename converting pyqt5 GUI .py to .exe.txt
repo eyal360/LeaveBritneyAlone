@@ -1,0 +1,2 @@
+command to convert PyQt5 GUI .py to .exe
+pyinstaller --onefile --windowed --icon {icon.ico} --name {app_name} {main_script.py}

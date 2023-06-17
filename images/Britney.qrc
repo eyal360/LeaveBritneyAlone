@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="britney">
+    <file>restart.png</file>
+    <file>britney.png</file>
+  </qresource>
+</RCC>
